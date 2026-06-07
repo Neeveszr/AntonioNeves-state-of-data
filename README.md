@@ -1,6 +1,6 @@
 # Análise de salários de profissionais de dados no Brasil em 2024
 
-**Integrantes:**  
+**Integrante:**  
 - Antonio Neves Aguiar Neto
 
 **Dashboard interativo:**  
