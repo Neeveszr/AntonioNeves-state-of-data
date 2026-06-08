@@ -20,11 +20,9 @@ A análise foi desenvolvida como trabalho final da disciplina **Análise Avança
 
 ## Resposta à pergunta central
 
-A análise indica que os fatores mais associados ao salário dos profissionais de dados no Brasil são **senioridade, experiência na área de dados e cargo ocupado**. Profissionais em níveis mais avançados, com mais tempo de atuação e em funções mais especializadas tendem a apresentar salários medianos superiores.
+A análise indica que os fatores mais associados ao salário dos profissionais de dados no Brasil em 2024 são **senioridade, experiência na área de dados e cargo ocupado**. Profissionais em níveis mais avançados, com mais tempo de atuação e em funções mais especializadas tendem a apresentar salários medianos superiores.
 
-A senioridade mostrou uma progressão clara: profissionais Júnior, Pleno e Sênior aparecem em faixas salariais crescentes. A experiência reforça esse padrão, pois respondentes com mais anos de atuação na área de dados apresentam remunerações medianas maiores. O cargo ocupado também ajuda a explicar diferenças salariais, especialmente em funções ligadas à engenharia de dados, ciência de dados, machine learning, analytics engineering e liderança.
-
-Outros fatores, como região e gênero, também foram analisados, mas exigem interpretação cuidadosa. Diferenças salariais observadas entre grupos podem refletir diferenças de composição em termos de cargo, senioridade e experiência. Por isso, os resultados devem ser lidos como **associações** e não como prova de causalidade direta.
+Região e gênero também foram analisados, mas exigem cautela: diferenças salariais entre grupos podem refletir a composição da amostra em termos de cargo, senioridade e experiência. Por isso, os resultados devem ser interpretados como **associações**, não como prova de causalidade direta.
 
 ---
 
